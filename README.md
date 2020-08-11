@@ -6,4 +6,4 @@ Download solution.m and find_direction.m files.
 
 Run solution.m file which has find_firection.m function. An animation of the solution is diplayed.
 
-For the initial positions of castaway and shark intersecting, there is no solution. For any othe case, there is a definite solution. 
+For the initial positions of castaway and shark intersecting, there is no solution. For any other case, there is a definite solution. 
